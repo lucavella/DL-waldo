@@ -1,2 +1,1 @@
-# DL-waldo
-Deep Learning - project Waldo
+# Deep Learning - project Waldo
